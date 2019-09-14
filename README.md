@@ -1,2 +1,2 @@
 # Dice
-Dice(6) for usual dice.
+dice(6) or dice() for usual dice.
